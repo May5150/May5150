@@ -1,13 +1,13 @@
 # Hello!
 
-- 👋 Hi, I’m @May5150
-- 👀 I’m interested in music!
-- 🌱 I’m currently learning English hard!
-- 📫 How to reach me mail adress : ny@kuroneko6423.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can't speak English.
+Hello I'm N.Y!
+I recently started programming.
+I'm not very good at English.
+So now I am studying English hard.
 
-### Languages
+# About me
+
+### Languages(Learning)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
